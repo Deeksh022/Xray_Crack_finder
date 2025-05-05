@@ -6,10 +6,6 @@ In a world teeming with structural complexities, identifying hairline fractures 
 
 🔧 Requisites for Incantation
 Before casting spells on images, ensure your environment houses the following libraries:
-
-bash
-Copy
-Edit
 pip install opencv-python numpy matplotlib pillow
 All other ingredients (i.e., tkinter) come pre-consecrated with standard Python installations.
 
@@ -34,17 +30,11 @@ Arrow Annotation — Marks the most menacing fracture with a visual cue for huma
 
 🎛️ User Interface Elegance
 No terminal incantations necessary. The GUI—courtesy of Tkinter—summons interaction via:
-
 A Title inscribed with gravitas
-
 A Button that opens a chasm to your local storage for image upload
-
 Seamless visualization through Matplotlib, rendering:
-
 Raw input
-
 Processed edges
-
 All visible contours
 
 Final annotated masterpiece
